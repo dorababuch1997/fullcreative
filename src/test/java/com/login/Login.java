@@ -6,6 +6,7 @@ public class Login {
 		
 		System.out.println("login ");
 		System.out.println("login Functionality");
+		System.out.println("login merge");
 	}
 
 }
